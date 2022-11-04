@@ -64,7 +64,7 @@ public class Recepta {
                 + "%dgr de panses\n%.2f culleretes de curry\n",
                 nPersones, coliflor, pollastre, carlotes,
                 caldo, pinyons, ceba, panses, curry
-        );
+        ); //Estic fent canvis per probar el git
     }
 
 }
